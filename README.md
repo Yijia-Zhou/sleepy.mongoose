@@ -5,3 +5,13 @@ Any use of these scripts and tools is at your own risk. There is no guarantee th
 You are responsible for reviewing and testing any scripts you run thoroughly before use in any non-testing environment.
 
 See [the wiki](https://github.com/10gen-labs/sleepy.mongoose/wiki) for documentation.
+
+### Remark
+
+Before run it
+
+```
+conda create -n py2.7 python=2.7
+conda activate py2.7
+pip install pymongo==1.9
+```
