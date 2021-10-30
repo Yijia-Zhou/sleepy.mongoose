@@ -16,4 +16,4 @@ conda activate py2.7
 pip install pymongo==1.9
 ```
 
-And add `self.send_header('Access-Control-Allow-Origin', '*')` to MongoHTTPRequest.call_handler in httpd.py
+And add `self.send_header('Access-Control-Allow-Origin', '*')` to MongoHTTPRequest.call_handler in httpd.py (already done in this repo).
