@@ -8,7 +8,9 @@ See [the wiki](https://github.com/10gen-labs/sleepy.mongoose/wiki) for documenta
 
 ### Remark
 
-Before run it
+Compatible with mongoDB 4.x version.
+
+Before start it, run script below in bash/CMD(don't use Powershell)
 
 ```
 conda create -n py2.7 python=2.7
